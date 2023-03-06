@@ -31,13 +31,13 @@ class Grupo:
     # def __str__(self):
     #     pass
 
-    @ classmethod
-    def asignarNombre(cls, nombre="Grado 12"): #Grado 10
-        cls.grado = nombre
+   # @ classmethod
+   # def asignarNombre(cls, nombre="Grado 12"): #Grado 10
+   #     cls.grado = nombre
    
-    @ classmethod
-    def asignarNombre(cls, nombre="Grado 4"): #Grado 6
-        cls.grado = nombre
+   # @ classmethod
+   # def asignarNombre(cls, nombre="Grado 4"): #Grado 6
+   #     cls.grado = nombre
 
     @ classmethod
     def asignarNombre(cls, nombre="Grado 6"): #Grado 4
